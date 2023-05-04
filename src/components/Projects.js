@@ -9,7 +9,7 @@ function Projects() {
                 <h3 className='text-xl font-bold text-blue-700'>PORTFOLIO</h3>
                 <p className='text-2xl font-semibold text-center'>Each project is a unique piece of development</p>
                 <div className='p-2 bg-gray-100 rounded-lg flex flex-col lg:flex-row justify-center items-center gap-2 lg:mx-64'>
-                    <a href='https://rad-platypus-aa710c.netlify.app/' target='_blank'><img className='rounded-md p-4 lg:w-full' title='HTML5' src={gym} alt='GYM' /></a>
+                    <a href='https://rad-platypus-aa710c.netlify.app/' target='_blank' rel="noopener noreferrer"><img className='rounded-md p-4 lg:w-full' title='HTML5' src={gym} alt='GYM' /></a>
                     <div className='flex flex-col justify-center items-center'>
                         <h3 className='text-2xl font-bold'>GYM</h3>
                         <p className='text-gray-500 text-lg p-4 text-center'>A gym website is a comprehensive resource for fitness information, class schedules,
@@ -18,7 +18,7 @@ function Projects() {
                     </div>
                 </div>
                 <div className='p-2 bg-gray-100 rounded-lg flex flex-col lg:flex-row justify-center items-center gap-2 lg:mx-64'>
-                    <a href='https://joyful-cuchufli-4e9ead.netlify.app/' target='_blank'><img className='rounded-md p-4 lg:w-full' title='HTML5' src={services} alt='Services' /></a>
+                    <a href='https://joyful-cuchufli-4e9ead.netlify.app/' target='_blank' rel="noopener noreferrer"><img className='rounded-md p-4 lg:w-full' title='HTML5' src={services} alt='Services' /></a>
                     <div className='flex flex-col justify-center items-center'>
                         <h3 className='text-2xl font-bold'>Phone Services</h3>
                         <p className='text-gray-500 text-lg p-4 text-center'>A website for a phones, internet, wireless company that offers diffent services on this area,
