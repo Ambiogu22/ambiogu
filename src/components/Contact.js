@@ -14,7 +14,7 @@ function Contact() {
                 <div className='flex flex-col lg:flex-row justify-center items-center w-screen gap-16 md:gap-24 lg:gap-48 md:mt-8'>
                     <div className='flex flex-col justify-center items-center gap-4'>
                         <FontAwesomeIcon icon={faEnvelopeOpenText} className='text-4xl lg:text-3xl text-blue-700 p-6 bg-gray-100 rounded-full shadow-lg' />
-                        <h3 className='text-2xl lg:text-xl font-semibold'>Mail</h3>
+                        <h3 className='text-2xl lg:text-xl font-semibold'>Email</h3>
                         <p className='text-gray-500 text-lg lg:text-base'>ambio22620@gmail.com</p>
                     </div>
                     <div className='flex flex-col justify-center items-center gap-4'>
