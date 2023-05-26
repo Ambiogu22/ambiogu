@@ -6,7 +6,7 @@ function About() {
     return (
         <div>
             <div className='relative'>
-                <div className=' absolute z-40 flex flex-col lg:flex-row items-center justify-center mx-6 md:mt-20 lg:mx-64 lg:mt-16'>
+                <div className=' absolute z-40 flex flex-col lg:flex-row items-center justify-center mx-6 md:mt-20 lg:mx-48 lg:mt-24'>
                     <img className='w-72 lg:w-96 rounded-md my-12' title='Laptop Img' src={wallpaper} alt='Laptop Img' />
                     <div className='flex flex-col justify-center items-center'>
                         <h3 className='text-xl font-bold text-blue-700'>ABOUT ME</h3>
